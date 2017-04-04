@@ -1,4 +1,4 @@
-package com.fitucab.mylibrary;
+package com.example.karo.tabs;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.fitucab.mylibrary.test", appContext.getPackageName());
+        assertEquals("com.example.karo.tabs", appContext.getPackageName());
     }
 }

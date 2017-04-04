@@ -3,7 +3,7 @@
     android:id="@+id/actividad_manual"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="layout.fragments_actividades.ActividadManual">
+    tools:context="com.example.karo.tabs.RegistrarActividad">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

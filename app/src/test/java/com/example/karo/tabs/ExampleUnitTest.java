@@ -1,4 +1,4 @@
-package com.fitucab.mylibrary;
+package com.example.karo.tabs;
 
 import org.junit.Test;
 
