@@ -12,4 +12,17 @@
         android:layout_height="match_parent"
         android:text="manual" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="287dp"
+        android:layout_height="74dp"
+        android:background="@android:color/holo_green_light"
+        android:text="Empezar!"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:translationX="50dp"
+        android:translationY="400dp" />
+
 </FrameLayout>
